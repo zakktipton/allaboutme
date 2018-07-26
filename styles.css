@@ -22,20 +22,28 @@ H1 {
 }
 main {
   padding-top: 15px;
+display: grid;
+  grid-template-areas
+   "aside article article"
+  "aside footer footer";
+  grid-gap: 30px;
 }
 aside { 
   padding: 30px;
   background-color: #a2b9bc;
+  grid-area: aside;
 }
 article {
   padding: 30px;
   background-color: white;
-  color: black
+  color: black;
+    grid-area: article;
 }
 footer {
   padding: 30px;
     background-color: b2ad7f;
     color: white;
+  grid-area: footer;
 }
     
     
