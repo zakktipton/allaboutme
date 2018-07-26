@@ -17,4 +17,25 @@ header { color: white;
   background-size: cover;
   background-attachment: fixed;
 }
-  
+H1 {
+  text/align: center;
+}
+main {
+  padding-top: 15px;
+}
+aside { 
+  padding: 30px;
+  background-color: #a2b9bc;
+}
+article {
+  padding: 30px;
+  background-color: white;
+  color: black
+}
+footer {
+  padding: 30px;
+    background-color: b2ad7f;
+    color: white;
+}
+    
+    
