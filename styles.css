@@ -10,3 +10,11 @@ nav {
   text-shadow: 1px 1px;
   color: white;
 }
+header {
+  padding: 30px;
+  height: 70%;
+  background-image: url("https://images.unsplash.com/photo-1525423207238-e8f5315d87e2?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4d1c63036a2a14c52809a3076d53a408&auto=format&fit=crop&w=1378&q=80 ");
+  background-size: cover;
+  background-attachment: fixed;
+}
+  
